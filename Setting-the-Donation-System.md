@@ -1,9 +1,9 @@
 # Setting the Donation System
 1. If you dont already, create a premier paypal account. (It's free http://www.paypal.com)
 2. From the PayPal menu, go to Profile > More Options > Under selling Preferences > Instant Payment Notification Preferences.
-3. Select Instant notification<br />
+3. Select Instant notification
 4. Enter the full path including your domain name to ipn.php in the root of your
-MaNGOS directory. <br />
+MaNGOS directory.
 Example: http://you-domain-or-ip/ipn.php
 5. In the MaNGOSWeb Admin Control Panel -> Site Config. Make sure you have the paypal email address set!
 6. To test using sandbox: 
