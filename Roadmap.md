@@ -1,5 +1,5 @@
 #4.1.0 Major Release
-Below are new features and enhancements which will be added to the 4.0.1 release.
+Below are new features and enhancements which will be added to the 4.1.0 release.
 ###Admin->Accounts
  - Suspend or un-suspend an account.
  - Ban account for period of time.
