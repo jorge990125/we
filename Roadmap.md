@@ -33,3 +33,4 @@ Below are new features and enhancements which will be added to the 4.1.0 release
 
 ###Security
  - Update to newest captcha method
+ - Return user to previous page after successful login instead of default page.
