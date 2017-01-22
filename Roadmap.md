@@ -33,5 +33,5 @@ Below are new features and enhancements which will be added to the 4.1.0 release
  - View, edit, resolve (communicate?) to the user of the ticket
 
 ###Security
- - Update to newest captcha method
+ - Update to newest captcha method - COMPLETE via 4.0.1 and has been pulled into master branch
  - Return user to previous page after successful login instead of default page.
