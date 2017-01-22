@@ -1,11 +1,12 @@
 #4.1.0 Major Release
 Below are new features and enhancements which will be added to the 4.1.0 release.
-###Admin->Accounts
+###Accounts
  - Suspend or un-suspend an account.
  - Ban account for period of time.
  - Create a new account.
- - Modify list of accounts, clean up active (aka suspend) / banned status.
+ - Account list page -> clean up active (aka suspend) / banned status.
  - Add interface to add, edit, delete IP bans.
+ - Modify registration email to include HTML (make it fancy).
 
 ###Admin->Shop
  - Add more user friendly item lookup utilizing wowhead or similar database.
