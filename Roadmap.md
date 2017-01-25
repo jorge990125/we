@@ -12,7 +12,6 @@ Below are new features and enhancements which will be added to the 4.1.0 release
  - Add more user friendly item lookup utilizing wowhead or similar database.
 
 ###Characters
- - Add realmplayers.com armory links for characters in the server, players online, topkills and characters lists.
  - Send in game mail to characters from web admin page.
 
 ###Admin->Monitoring
