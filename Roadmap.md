@@ -34,4 +34,4 @@ Below are new features and enhancements which will be added to the 4.1.0 release
 
 ###Security
  - Update to newest captcha method - **COMPLETE via 4.0.1 and has been pulled into master branch**
- - Return user to previous page after successful login instead of default page.
+ - Return user to previous page after successful login instead of default page. - **This function already exists but could use some cleanup.  Will be done at some point later in the future**
