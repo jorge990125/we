@@ -1,10 +1,11 @@
 ##4.1.0 Major Release
 Below are new features and enhancements which will be added to the 4.1.0 release.
 ###Accounts
- - Ban account for period of time.
+ - Admin->Ban account for period of time. - **COMPLETE via 4.0.2 and has been pulled into master branch**
+ - Admin->Add ban IP option. - **COMPLETE via 4.0.2 and has been pulled into master branch**
+ - Admin->Account list page -> clean up active (aka suspend) / banned status. - **COMPLETE via 4.0.2 and has been pulled into master branch**
+ - Admin->Created Ban List page showing all current account and IP bans in the database. - **COMPLETE via 4.0.2 and has been pulled into master branch**
  - Create a new account.
- - Account list page -> clean up active (aka suspend) / banned status.
- - Add interface to add, edit, delete IP bans.
  - Modify registration email to include HTML (make it fancy).
 
 ###Admin->Shop
