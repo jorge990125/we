@@ -1,7 +1,6 @@
 ##4.1.0 Major Release
 Below are new features and enhancements which will be added to the 4.1.0 release.
 ###Accounts
- - Suspend or un-suspend an account.
  - Ban account for period of time.
  - Create a new account.
  - Account list page -> clean up active (aka suspend) / banned status.
