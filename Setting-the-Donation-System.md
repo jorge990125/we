@@ -1,3 +1,5 @@
+You can view a live copy of the latest version used for testing by visiting **www.mistvale.com**.
+
 # Setting the Donation System
 1. If you dont already, create a premier paypal account. (It's free http://www.paypal.com)
 2. From the PayPal menu, go to Profile > More Options > Under selling Preferences > Instant Payment Notification Preferences.
