@@ -1,3 +1,5 @@
+You can view a live copy of the latest version used for testing by visiting **www.mistvale.com**.
+
 # Forum Integration
 1. In v3, I have included some PHP classes (Not written by me, credits are in the php class files themselves), that will create forum accounts when a user logs into the site. If the account exists it will log the user in the forums as well. Please note that i was only able to test the phpBB3 bridge as I do not have vBulletin. But the vBulletin one should work just fine.
 2. Go to your MaNGOSWeb Admin Control Panel -> Site Config. In the sub nav click "Forum Integration Settings"
