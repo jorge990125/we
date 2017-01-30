@@ -2,8 +2,7 @@
 
 ##4.0.4 - RSS, Login & Top Kills Cleanup
  - RSS function was broken.  Cleaned it up to get it passing RSS validation.
- - Fixed Top Kills page - background was solid black for somea reason.
- - Updated it to be more clean using the standard table design and background.
+ - Fixed Top Kills page - background was solid black for somea reason.  Updated it to be more clean using the standard table design and background.
  - Moved main content down to prevent login button from being covered up.
 
 ##4.0.3 - In Game Mail
