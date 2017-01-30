@@ -1,5 +1,17 @@
 #Changelog
 
+##4.0.3 - In Game Mail
+ - Added ability to send in game mail to characters.
+ - Fixed bug in remote access send() function.
+ - Moved Tiny MCE initalization to email page so it is not available for in game mail (plain text only allowed).
+
+##4.0.2 - Account cleanup
+ - A lot of general code / user experience cleanup.
+ - Admin->Ban account for period of time.
+ - Admin->Add ban IP option.
+ - Admin->Account list page -> clean up active (aka suspend) / banned status.
+ - Admin->Created Ban List page showing all current account and IP bans in the database.
+
 ##4.0.1 - reCAPTCHA
  - Updated user registration page to utilize Google's reCAPTCHA 2.0 
  - Check out and register for free @ https://www.google.com/recaptcha/
