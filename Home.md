@@ -1,3 +1,5 @@
+You can view a live copy of the latest version used for testing by visiting **www.mistvale.com**.
+
 #Changelog
 
 ##4.0.4 - RSS, Login & Top Kills Cleanup
