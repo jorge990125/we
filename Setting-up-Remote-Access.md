@@ -1,3 +1,5 @@
+You can view a live copy of the latest version used for testing by visiting **www.mistvale.com**.
+
 # Setting up Remote Access
 
  1. To setup remote access to your server, you must have it enabled in your server config. Its best to have it look like this
