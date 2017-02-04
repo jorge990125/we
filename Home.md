@@ -2,6 +2,17 @@ You can view a live copy of the latest version used for testing by visiting **ww
 
 #Changelog
 
+##4.0.5 - Updates & Bug Fixes for Database, Account Creation, SSOTD, Server Statistics Page
+ - Optimized DB install .sql file adding unsigned to most ID's and other INT columns.
+ - Also modified inc\account\account.login.php to check mw_account_extend to make sure account exists in this table at time of login.  If you create an account in the game's console they weren't replicated to this table which caused login issues.
+ - SSOTD random screenshot on the home page did not show an image due to some outdated or incorrect code.  Fixed null issues and changed date to use unix timestamp.
+ - Removed old DB scripts.
+ - Removed server info pages since backend functions did not exist.
+ - Added a 4.X to 4.0.5 migration SQL script.
+ - Modified full_install.sql to reflect the DB optimizations.
+ - Fixed server -> statistic page to properly pull and show images andcharacter stats.
+ - Converted old style commands to new mysqli.  Added appropriate links and variables to support new structure.
+
 ##4.0.4 - RSS, Login & Top Kills Cleanup
  - RSS function was broken.  Cleaned it up to get it passing RSS validation.
  - Fixed Top Kills page - background was solid black for somea reason.  Updated it to be more clean using the standard table design and background.
