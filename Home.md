@@ -2,6 +2,24 @@ You can view a live copy of the latest version used for testing by visiting **ww
 
 #Changelog
 
+##4.0.8 - XSS Exploit Fix
+ - Fixed XSS exploit issue in install script
+
+##4.0.7 - Added New Templates
+ - Added Mists of Pandaria template
+ - Added Burning Crusade template
+ - Fixed a few broken images
+
+##4.0.6 - SQL script updates, Added Server Statistics page
+ - Added Server Statistics page
+ - Reordered entries
+ - Removed hard set item ID from insert statements, used NULL instead so DB will auto_increment
+ - Removed unused lines of code
+ - Cleaned up top menu breadcrumb links in server statistics page
+ - Cleaned up top menu breadcrumb links in players online page
+ - Cleaned up the way the realm names were listed in game mail & char tools page
+ - Identified several broken class references between Config & Core.  This update fixes that and cleans up the variables and functions.
+
 ##4.0.5 - Updates & Bug Fixes for Database, Account Creation, SSOTD, Server Statistics Page
  - Optimized DB install .sql file adding unsigned to most ID's and other INT columns.
  - Also modified inc\account\account.login.php to check mw_account_extend to make sure account exists in this table at time of login.  If you create an account in the game's console they weren't replicated to this table which caused login issues.
