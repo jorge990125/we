@@ -1,6 +1,6 @@
 You can view a live copy of the latest version used for testing by visiting **www.mistvale.com**.
 
-# 1 Full Install
+# Full Installation
 ### A) Requirements:
 Apache with Mysql & PhP support
 - Apache v2.2 or higher
