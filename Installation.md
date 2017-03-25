@@ -18,15 +18,3 @@ Apache with Mysql & PhP support
  7. Go straight to the admin panel! and go to site config. Configure the site :P
  8. Go to Realms next, and for each realm you want users to use, you need to edit that realms DB information and turn "Site Enabled" from "Disabled" to "Enabled"
 
-### C) How To Update
- 1. Go to your Admin Control Panel and click "Check For Updates" on the last row.
- 2. If there are any updates, it will show you a list of files that will be updated. Click "Update MangosWeb" to begin the update process.
- 3. The update process is automatic and will end in just a few seconds. Once done click "Return"
- 4. Continue the process untill there are no more updates. Its that easy.
-
-# 2 Upgrading From older versions of MangosWeb
-Note: Upgrading is only supported from V3.X.  Anything prior (e.g. <= V2.X) is not supported due to unknown database modifications.
- 1. Delete the two php files under the config/ directory in the V4 folder.  No modifications were performed to these files and if you upload them you will lose your site/database/realm settings.
- 2. Upload all of the new directories and files to the existing MaNGOSWeb folder on your webserver.
- 3. No database modification is required.
- 4. Use!  MaNGOSWebV4 is now ready to use.
